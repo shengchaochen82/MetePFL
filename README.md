@@ -8,7 +8,7 @@ Here are some guidelines
 Section 3. SPL in Our Paper: 
 base_module/pretrain_trans.py/[Novel_Prompting]
 
-Section 4. Optimization in Our Paper.
+Section 4. Optimization in Our Paper:
 GraphGenerator.py, aggregator.py
 
 
