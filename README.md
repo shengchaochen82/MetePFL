@@ -1,4 +1,4 @@
-# Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data (MetePFL)
+# Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data
 
 
 This is the official repository for the paper [Prompt Federated Learning for Weather Forecasting: Toward Foundation Models on Meteorological Data](https://arxiv.org/abs/2301.09152) <ins> Accepted by IJCAI'23</ins> . 
@@ -22,6 +22,8 @@ Optimization in Our Paper:GraphGenerator.py, aggregator.py
   year={2023}
 }
 
+```
 
+### Contact
 If you have any questions, please do not hesitate to contact me (Email: shengchao.chen.uts@gmail.com).
 
