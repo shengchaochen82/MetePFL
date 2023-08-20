@@ -10,9 +10,9 @@ To tackle the global climate challenge, it urgently needs to develop a collabora
 ![Alt](https://github.com/shengchaochen82/MetePFL/blob/main/Framework_MetePFL.png?raw=true#pic_center)
 ### Code guideline
 
-SPL in Our Paper:  base_module/pretrain_trans.py/[Novel_Prompting]
+Path of the proposed SPL:  base_module/pretrain_trans.py/[Novel_Prompting]
 
-Optimization in Our Paper:GraphGenerator.py, aggregator.py
+Path of the framework optimization: GraphGenerator.py, aggregator.py
 
 ## Datasets and experiments
 All of the dataset utilized in this paper can be found in National Aeronautics and Space Administration [(NASA)](https://www.nasa.gov/)
