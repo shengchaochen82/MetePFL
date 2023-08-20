@@ -8,7 +8,7 @@ All of the dataset utilized in this paper can be found in National Aeronautics a
 ### Abstract
 To tackle the global climate challenge, it urgently needs to develop a collaborative platform for comprehensive weather forecasting on large-scale meteorological data. Despite urgency, heterogeneous meteorological sensors across countries and regions, inevitably causing multivariate heterogeneity and data exposure, become the main barrier. This paper develops a foundation model across regions capable of understanding complex meteorological data and providing weather forecasting. To relieve the data exposure concern across regions, a novel federated learning approach has been proposed to collaboratively learn a brand-new spatio-temporal Transformer-based foundation model across participants with heterogeneous meteorological data. Moreover, a novel prompt learning mechanism has been adopted to satisfy low-resourced sensors' communication and computational constraints. The effectiveness of the proposed method has been demonstrated on classical weather forecasting tasks using three meteorological datasets with multivariate time series.
 
-
+![Aaron Swartz](https://github.com/shengchaochen82/MetePFL/blob/main/Framework_MetePFL.png?raw=true)
 ### Code guideline
 
 SPL in Our Paper:  base_module/pretrain_trans.py/[Novel_Prompting]
