@@ -19,7 +19,7 @@ Path of the framework optimization: GraphGenerator.py, aggregator.py
 All of the dataset utilized in this paper can be found in National Aeronautics and Space Administration [(NASA)](https://www.nasa.gov/)
 ![Alt](https://github.com/shengchaochen82/MetePFL/blob/main/Experiment.png?raw=true#pic_center)
 
-Details of Dataset: [(dataset)](https://disc.gsfc.nasa.gov/datasets/M2C0NXASM_5.12.4/summary)
+**Instruction of Dataset Processing**: [(Dataset)](https://disc.gsfc.nasa.gov/datasets/M2C0NXASM_5.12.4/summary) To use the datasets in our paper, first select a subset from the NASA-provided dataset based on the client number and latitude/longitude ranges detailed in the Appendix of [(our paper)](https://arxiv.org/abs/2305.14244). Then, process it in array format.
 
 ### Please cite our publication if you found our research to be helpful.
 
